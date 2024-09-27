@@ -9,6 +9,8 @@ const ImageComponent = () => {
       {/* Imagem removida */}
     </div>
   );
+
+  //dwdwqd
 };
 
 // Página Inicial
